@@ -1,0 +1,40 @@
+{
+  "sniper": [
+    {
+      "mintAddress": "ERRkdDiB9aHxsKHspK2ZLfqiQ1QUaVHhMvm6FsVhmRLB",
+      "walletName": "Max 1",
+      "price": 66,
+      "proxy": false,
+      "customRPC": false
+    },
+    {
+      "mintAddress": "4X3vZj3tp8qToMhmMyLPBvaBQ6wtpYhMdqDt3bwF9yJU",
+      "walletName": "Max 1",
+      "price": "200",
+      "proxy": "false",
+      "custom RPC": "false"
+    },
+    {
+      "mintAddress": "4X3vZj3tp8qToMhmMyLPBvaBQ6wtpYhMdqDt3bwF9yJU",
+      "walletName": "Max 1",
+      "price": "200",
+      "proxy": "false",
+      "custom RPC": "false"
+    },
+    {
+      "mintAddress": "4X3vZj3tp8qToMhmMyLPBvaBQ6wtpYhMdqDt3bwF9yJU",
+      "walletName": "Max 1",
+      "price": "200",
+      "proxy": "false",
+      "custom RPC": "false"
+    }
+  ],
+  "launchpad": [
+    {
+      "mintAddress": "EzY3cULPiTcErcaHoBzAMXPbeUQZSY7BRrpPXodhYbbc",
+      "walletName": "Max 1",
+      "proxy": false,
+      "customRPC": ""
+    }
+  ]
+}
